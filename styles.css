@@ -150,3 +150,14 @@ header {
 .our-bikes h2 span {
     color: var(--theme-color);
 }
+
+/* Contact */
+.contact h2 {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+}
+
+.contact textarea {
+    width: 100%;
+}
